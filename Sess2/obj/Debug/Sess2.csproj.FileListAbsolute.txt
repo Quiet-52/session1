@@ -1,0 +1,16 @@
+C:\Users\User_9\source\repos\Sess2\bin\Debug\Sess2.exe.config
+C:\Users\User_9\source\repos\Sess2\bin\Debug\Sess2.exe
+C:\Users\User_9\source\repos\Sess2\bin\Debug\Sess2.pdb
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.csproj.AssemblyReference.cache
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_9\source\repos\Sess2\obj\Debug\MainWindow.g.cs
+C:\Users\User_9\source\repos\Sess2\obj\Debug\App.g.cs
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2_MarkupCompile.cache
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2_MarkupCompile.lref
+C:\Users\User_9\source\repos\Sess2\obj\Debug\MainWindow.baml
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.g.resources
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.Properties.Resources.resources
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.csproj.GenerateResource.cache
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.csproj.CoreCompileInputs.cache
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.exe
+C:\Users\User_9\source\repos\Sess2\obj\Debug\Sess2.pdb
